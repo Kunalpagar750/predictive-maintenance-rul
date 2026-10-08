@@ -1,5 +1,9 @@
 # Predictive Maintenance and Remaining Useful Life (RUL) Estimation
 
+## 🚀 Live Demo
+
+[Open the Predictive Maintenance RUL App](https://predictive-maintenance-rul-3rkn9few7olcnulqgefvat.streamlit.app/)
+
 ## 📌 Project Overview
 
 This project develops a machine learning system to estimate the Remaining Useful Life (RUL) of aircraft engines using sensor and operating-condition data.
